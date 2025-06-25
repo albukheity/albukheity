@@ -1,6 +1,6 @@
 <div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
   <a href="https://albukheitysoft.blogspot.com/?m=1"><img src="https://avatars.githubusercontent.com/u/101047629?v=4" width="50" /></a>
-  <a href="readme_ar.md"><img src="https://img.shields.io/badge/lang-Arabic-green" alt="Arabic" /></a>
+  <a href="README-AR.md"><img src="https://img.shields.io/badge/lang-Arabic-green" alt="Arabic" /></a>
 </div>
 
 <div align="center">
