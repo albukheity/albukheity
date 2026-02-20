@@ -5,9 +5,9 @@
 
 <div align="center">
   
-# AlbukheitySoft
+# Divloopz
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="AlbukheitySoft Logo" width="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" alt="Divloopz Logo" width="300"/>
 
 **_Building the digital future, line by line_**
 
@@ -17,7 +17,7 @@
 
 ## 🔷 About Us
 
-We are **AlbukheitySoft Software Team**, a group of creative and professional developers specialized in building integrated and innovative software solutions. We combine deep technical expertise with a passion for technology to deliver high-quality digital products that meet our clients' needs and exceed their expectations.
+We are **Divloopz Software Team**, a group of creative and professional developers specialized in building integrated and innovative software solutions. We combine deep technical expertise with a passion for technology to deliver high-quality digital products that meet our clients' needs and exceed their expectations.
 
 ## 🔷 Our Expertise
 
@@ -94,7 +94,7 @@ We are **AlbukheitySoft Software Team**, a group of creative and professional de
 
 - ** [Open Source Channel](https://t.me/Pro2P)**:
 
-- ** [AlbukheitySoft](https://github.com/albukheity?tab=repositories)**:
+- ** [Abdulrahman Albukheity](https://github.com/albukheity?tab=repositories)**:
 
 ---
 
@@ -126,9 +126,9 @@ We strive to be pioneers in software development through:
 
 ---
 
-**AlbukheitySoft Software Team** | Transforming your ideas into digital reality
+**Divloopz Software Team** | Transforming your ideas into digital reality
 
-<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="AlbukheitySoft"/>
+<img src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif" width="200" alt="Divloopz"/>
 
 ![Divider](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
